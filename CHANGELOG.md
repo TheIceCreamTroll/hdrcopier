@@ -1,3 +1,11 @@
+## Version 0.4.1
+
+- Do not copy unspecified metadata
+
+## Version 0.4.0
+
+- Add support for copying chroma location flags
+
 ## Version 0.3.2
 
 - Fix bug where copying settings may fail if chapters don't exist
